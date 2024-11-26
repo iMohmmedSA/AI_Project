@@ -1,0 +1,23 @@
+{
+  "name": "ai_project",
+  "version": "1.0.0",
+  "description": "# Dataset [Irrigation Scheduling](https://www.kaggle.com/datasets/triptmann/irrigation-scheduling?resource=download)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMohmmedSA/Web_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iMohmmedSA/Web_Project/issues"
+  },
+  "homepage": "https://github.com/iMohmmedSA/Web_Project#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "fast-csv": "^5.0.2"
+  }
+}
